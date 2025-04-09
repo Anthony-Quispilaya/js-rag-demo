@@ -77,7 +77,8 @@ async function runRAGDemo() {
     const queries = [
       'What is RAG and what are its key components?',
       'What are vector databases and how do they work?',
-      'How does embedding generation work in RAG systems?'
+      'How does embedding generation work in RAG systems?',
+      'What are the main responsibilities and skills involved in being a programmer?'
     ];
     
     for (const query of queries) {
@@ -96,7 +97,7 @@ async function processQuery(query, vectorStore, llm) {
   
   try {
     // Get similar documents
-    const relevantDocs = await vectorStore.similaritySearch(query, 2);
+    const relevantDocs = await vectorStore.similaritySearch(query, 3);
     console.log(`Found ${relevantDocs.length} relevant documents.`);
     
     // Extract context
