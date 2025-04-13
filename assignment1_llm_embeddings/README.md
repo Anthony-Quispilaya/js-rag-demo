@@ -1,5 +1,11 @@
 # Unit 1: Understanding RAG & Building a Basic Demo
 
+# Screenshots
+![New Query](screenshots/1.png)
+![New Sample](screenshots/2.png)
+![Template Q/A](screenshots/3.png)
+![New Q/A](screenshots/4.png)
+
 ## Introduction (Conceptual Background)
 
 Welcome to this Retrieval-Augmented Generation (RAG) demonstration project. This repository contains a practical implementation of RAG using LangChain and OpenAI, accompanied by a conceptual exploration of the underlying AI technologies that make it work.
