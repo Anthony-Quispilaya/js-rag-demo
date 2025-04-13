@@ -20,7 +20,7 @@ This project is broken down into the following units. See each unit's README for
 *Initial Setup: Run `npm install` in the root directory and create a `.env` file with your `OPENAI_API_KEY`.*
 
 # Screenshots
-![New Query](screenshots/1.png)
-![New Sample](screenshots/2.png)
-![Template Q/A](screenshots/3.png)
-![New Q/A](screenshots/4.png)
+![New Query](assignment1_llm_embeddings/screenshots/1.png)
+![New Sample](assignment1_llm_embeddings/screenshots/2.png)
+![Template Q/A](assignment1_llm_embeddings/screenshots/3.png)
+![New Q/A](assignment1_llm_embeddings/screenshots/4.png)
